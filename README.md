@@ -39,7 +39,7 @@ kubectl get pods -n ingress-nginx
 ```
 
 - Run the Ingress.yaml file:
->this file is responsiple for defining the path : /music with port 8090.
+>this file is responsible for definingthe path : /music with port 8090.
 ```sh
 kubectl apply -f ingress.yaml
 ```
