@@ -45,7 +45,7 @@ kubectl apply -f ingress.yaml
 ```
 - Now you can access the service using the URL: 
 http://127.0.0.1/music 
- you can access the app using : http://localhost:1999/  .
+
 
 ![Screenshot](https://github.com/SewarDarawshe/K8s_Ingress_FinalTask/blob/main/4.png)
 
